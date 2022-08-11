@@ -1,0 +1,42 @@
+.imagem{
+    text-align: center;  
+     
+}
+h1{
+    text-align: center;
+    color:#D6B490;
+    background-color:#57493A;
+}
+h2{
+    text-align: center;
+    color:#D6B490;
+    background-color:#57493A;
+}
+.ingre{
+    text-align: center;
+    margin: 20px;
+    padding: 5px;
+    background-color:#f0a24fa6  ;
+
+
+}
+.preparo{
+    padding: 5px;
+    text-align: justify;
+    margin:20px;
+    background-color:  #f0a24fa6;
+   
+
+}
+footer{
+    text-align: center;
+    color:#D6B490;
+    background-color:#57493A;
+    padding: 4px;
+}
+body{
+    background-color: #924c028a;
+}
+ul{
+    padding:5px;
+}
